@@ -1,9 +1,9 @@
 {
-    "name": "Eva Light Bold",
+    "name": "Most Light Bold",
     "type": "light",
     "$schema": "vscode://schemas/color-theme",
     "colors": {
-        "activityBar.activeBackground": "#EBEEF5",
+        "activityBar.activeBackground": "#b5cbfc",
         "activityBar.activeBorder": "#EBEEF5",
         "activityBar.background": "#EBEEF5",
         "activityBar.border": "#EBEEF500",
@@ -243,7 +243,7 @@
         "settings.textInputBackground": "#F1F4FB",
         "settings.textInputBorder": "#CED1D7",
         "settings.textInputForeground": "#5D5D5F",
-        "sideBar.background": "#E1E4EB",
+        "sideBar.background": "#ffd8b4",
         "sideBar.dropBackground": "#0065FF21",
         "sideBar.foreground": "#626264D8",
         "sideBarSectionHeader.background": "#EBEEF5",
